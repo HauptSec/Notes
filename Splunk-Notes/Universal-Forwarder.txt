@@ -1,0 +1,5 @@
+# Monitor a local directory - /opt/splunkforwarder/etc/system/local/inputs.conf
+[monitor:///DIRECTORY/]
+disabled = false
+index = INDEX
+sourcetype = TYPE
